@@ -55,6 +55,7 @@ nav ul li a{
 a.active,a:hover{
   background: #F0131E;
   transition: .5s;
+  color: white;
 }
 .checkbtn{
   font-size: 30px;
@@ -284,7 +285,8 @@ section{
   transition:background 0.5s;
 }
 .btn:hover{
- background: #fff
+ background: #fff;
+ color: #F0131E;
 }
 .header{
   background: radial-gradient(#fff,#ffd6d6);
